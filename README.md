@@ -47,9 +47,9 @@ Des visualisations ont été créées pour illustrer les résultats de cette ana
 
 ## Captures d'écran
 
-![Graphique Victoires](./images/victoires.png)
-![Graphique Défaites](./images/defaites.png)
-![Graphique Pourcentage de Victoires](./images/pourcentage_victoires.png)
+![Graphique Victoires](./imagesNBA1.png)
+![Graphique Défaites](./imagesNBA2.png)
+![Graphique Pourcentage de Victoires](./imagesNBA3.png)
 
 ## License
 
