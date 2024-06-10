@@ -30,10 +30,10 @@ L'analyse des données comprend les étapes suivantes :
 
 Utilisation de plusieurs modèles de machine learning pour prédire les performances futures des Lakers, notamment :
 
-- **Arbre de Décision **
-- **Forêt Aléatoire ** 
-- **K Plus Proches Voisins **
-- **Régression Linéaire ** 
+- **Arbre de Décision**
+- **Forêt Aléatoire** 
+- **K Plus Proches Voisins**
+- **Régression Linéaire** 
 
 ### Visualisation des Données
 
