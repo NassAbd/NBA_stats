@@ -2,6 +2,9 @@
 
 Analyse des performances historiques des Lakers et prédiction des performances futures.
 
+Source du dataset : [TeamYearByYearStats](https://github.com/swar/nba_api/blob/master/docs/nba_api/stats/endpoints/teamyearbyyearstats.md)
+
+
 ## Objectifs
 
 Explorer les éléments les plus déterminants dans le succès ou l'échec des Los Angeles Lakers au cours de leur histoire.
