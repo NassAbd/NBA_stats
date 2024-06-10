@@ -22,7 +22,7 @@ Par exemple :
 - Classements de conférence et de division.
 - Apparitions en finales NBA.
 
-### Analyser des Données
+### Analyser les Données
 
 L'analyse des données comprend les étapes suivantes :
 
