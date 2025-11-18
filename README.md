@@ -50,7 +50,3 @@ Des visualisations ont été créées pour illustrer les résultats de cette ana
 ![Graphique Finales](./imageNBA1.png)
 ![Graphique 3points](./imageNBA2.png)
 ![Graphique Fautes](./imageNBA3.png)
-
-## License
-
-Ce projet est licencié sous la licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de détails.
